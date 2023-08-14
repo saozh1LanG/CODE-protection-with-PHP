@@ -20,5 +20,8 @@ DECK 混淆加密
 GOTO 混淆加密
     限制域名访问 [支持]
     限制访问内容 [支持]
+    ![e68c600b358b47bf804eb74cefe32932](https://github.com/saozh1LanG/CODE-protection-with-PHP/assets/135679866/6c7f73f4-75c7-4cd8-8d7d-59fb8fcaabe7)
+
     自定义头部版权 [支持]
  
+
