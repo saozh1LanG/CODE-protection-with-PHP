@@ -21,6 +21,6 @@ GOTO 混淆加密
     限制域名访问 [支持]
     限制访问内容 [支持]
     自定义头部版权 [支持]
-    ![image](https://github.com/saozh1LanG/map-1/blob/main/e68c600b358b47bf804eb74cefe32932.jpg)
+    ![contents](https://github.com/saozh1LanG/map-1/blob/main/e68c600b358b47bf804eb74cefe32932.jpg)
  
 
